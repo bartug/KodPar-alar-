@@ -1,2 +1,2 @@
-# KodPar-alar-
+# KodParcalari
 Projeler içerisinde işime yarayacak kod blokları 
